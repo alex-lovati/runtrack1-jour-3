@@ -1,0 +1,32 @@
+*{
+    font-family: "shadows into light",Arial, Helvetica, sans-serif;
+    font-style:italic ;
+    font-size: 140%;
+    text-align: center;
+    color: olivedrab;
+    text-shadow: 0.06em 0.05em 0.09em black
+}
+body{
+    background-image: url("images/tlou.jpg");
+    background-repeat: no-repeat;
+    background-position: inherit;
+    margin-right: auto;
+    background-size: cover;
+    
+}
+
+#titre{
+    font-size: 250%;
+}
+.lara{
+    height: 10em;
+    /* margin-left: 20em;
+   float: right;
+   text-align: right;
+   position: absolute;
+   right: -70px; */
+
+   
+   
+  
+}

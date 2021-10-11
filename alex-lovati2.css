@@ -1,0 +1,27 @@
+*{
+    font-family: "impact", Arial, Helvetica, sans-serif;
+    font-style:italic ; 
+    font-size: 140%;
+    text-align: center;
+    color: rgb(30, 155, 172);
+    text-shadow: 0.06em 0.05em 0.09em rgb(73, 1, 1)
+    
+}
+body{
+    background-image: url(images/ellietlou.jpg);
+    background-repeat: no-repeat;
+    background-position: inherit;
+    margin-right: auto;
+    background-size: cover;
+}
+#titre{
+    font-size: 250%;
+
+}
+.lara{
+    height: 10em;
+    /* margin-left: 20em;
+   float: right; */
+   
+  
+}
